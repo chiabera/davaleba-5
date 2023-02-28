@@ -105,4 +105,30 @@ img {
   font-size: 32px;
   font-weight: 400;
   line-height: 42px;
+  margin-bottom: 137px;
+}
+
+/* ******************* */
+/* Footer STYLE */
+/* ******************* */
+
+footer {
+  background-color: #1f6519;
+}
+
+.illuminated {
+  vertical-align: middle;
+}
+
+.footer_content {
+  width: 1440px;
+  margin: 0 auto;
+  padding: 40px 0;
+  color: #fff;
+}
+
+.copyright {
+  display: inline-block;
+  margin-left: 617px;
+  vertical-align: middle;
 }
