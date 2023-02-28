@@ -42,3 +42,67 @@ h1 {
   font-size: 70px;
   vertical-align: middle;
 }
+
+/* ******************* */
+/* SECTION-1 STYLE */
+/* ******************* */
+.section {
+  background-color: #1f6519;
+  padding: 70px 35px;
+}
+
+.section_content {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+img {
+  width: 766px;
+  margin-right: 96px;
+}
+
+.text_div {
+  display: inline-block;
+  color: white;
+  vertical-align: top;
+}
+
+.our_mission {
+  text-align: center;
+  margin-bottom: 35px;
+  font-family: "Nerko One";
+  font-weight: 400;
+  font-style: italic;
+  font-size: 32px;
+}
+
+.text_description {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 42.4px;
+}
+
+/* ******************* */
+/* Article STYLE */
+/* ******************* */
+
+.article_content {
+  width: 1017px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "PT Serif", serif;
+}
+
+.article_header {
+  font-style: italic;
+  font-size: 40px;
+  margin: 92px 0;
+}
+
+.article_text {
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 42px;
+}
