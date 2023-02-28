@@ -1,0 +1,44 @@
+/* ******************* */
+/* HEADER STYLE */
+/* ******************* */
+header {
+  padding: 35px;
+}
+
+.header_content {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+h1,
+li,
+ul,
+nav {
+  display: inline-block;
+}
+
+nav {
+  margin-left: 312px;
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-size: 32px;
+  vertical-align: middle;
+}
+
+.blog {
+  color: #fa1a35;
+}
+
+.shop,
+.about,
+.contact {
+  margin-left: 83px;
+  color: #0f5009;
+}
+
+h1 {
+  font-family: "Segoe UI";
+  font-weight: 700;
+  font-size: 70px;
+  vertical-align: middle;
+}
